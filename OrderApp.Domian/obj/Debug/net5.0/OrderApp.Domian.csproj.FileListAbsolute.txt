@@ -1,0 +1,12 @@
+C:\JUBIWORKS\!Workspace\ASPNETCore2\!Lab01\OrderApp\OrderApp.Domian\bin\Debug\net5.0\OrderApp.Domian.deps.json
+C:\JUBIWORKS\!Workspace\ASPNETCore2\!Lab01\OrderApp\OrderApp.Domian\bin\Debug\net5.0\OrderApp.Domian.dll
+C:\JUBIWORKS\!Workspace\ASPNETCore2\!Lab01\OrderApp\OrderApp.Domian\bin\Debug\net5.0\ref\OrderApp.Domian.dll
+C:\JUBIWORKS\!Workspace\ASPNETCore2\!Lab01\OrderApp\OrderApp.Domian\bin\Debug\net5.0\OrderApp.Domian.pdb
+C:\JUBIWORKS\!Workspace\ASPNETCore2\!Lab01\OrderApp\OrderApp.Domian\obj\Debug\net5.0\OrderApp.Domian.GeneratedMSBuildEditorConfig.editorconfig
+C:\JUBIWORKS\!Workspace\ASPNETCore2\!Lab01\OrderApp\OrderApp.Domian\obj\Debug\net5.0\OrderApp.Domian.AssemblyInfoInputs.cache
+C:\JUBIWORKS\!Workspace\ASPNETCore2\!Lab01\OrderApp\OrderApp.Domian\obj\Debug\net5.0\OrderApp.Domian.AssemblyInfo.cs
+C:\JUBIWORKS\!Workspace\ASPNETCore2\!Lab01\OrderApp\OrderApp.Domian\obj\Debug\net5.0\OrderApp.Domian.csproj.CoreCompileInputs.cache
+C:\JUBIWORKS\!Workspace\ASPNETCore2\!Lab01\OrderApp\OrderApp.Domian\obj\Debug\net5.0\OrderApp.Domian.dll
+C:\JUBIWORKS\!Workspace\ASPNETCore2\!Lab01\OrderApp\OrderApp.Domian\obj\Debug\net5.0\ref\OrderApp.Domian.dll
+C:\JUBIWORKS\!Workspace\ASPNETCore2\!Lab01\OrderApp\OrderApp.Domian\obj\Debug\net5.0\OrderApp.Domian.pdb
+C:\JUBIWORKS\!Workspace\ASPNETCore2\!Lab01\OrderApp\OrderApp.Domian\obj\Debug\net5.0\OrderApp.Domian.csprojAssemblyReference.cache
